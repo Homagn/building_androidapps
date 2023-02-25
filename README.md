@@ -201,3 +201,9 @@ In the top right corner of the android studio youll see a hammer symbol
 near the hammer symbol, you can select option for the physical device which will be discovered after connecting usb as SM-S906L
 
 click the play button just beside the recognized device tab and then gradle build will start and the application will show on the cellphone after sometime
+
+Step 9 Transferring the app to the phone and running it anytime
+===============================================================
+On android studio > go to build (top left panels) > Build bundle(s)/APK(s) > Build APK(s) > after build it complete on the low right pop up you can click locate >copy the app-debug.apk file via usb to the device's download folder
+
+On the device go to downloads and click on the apk, it should ask about install and after install it should run
