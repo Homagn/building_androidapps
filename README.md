@@ -1,18 +1,18 @@
-Enable developer model for your android phone and enable usb debugging
-======================================================================
+Enabling developer model for your android phone and enable usb debugging
+=========================================================================
 (https://developer.android.com/studio/debug/dev-options)
 
 1. Find the build number on your device 
 
-Google Pixel |Settings > About phone > Build number
+	Google Pixel | Settings > About phone > Build number
 
-Samsung Galaxy S8 and later | Settings > About phone > Software information > Build number
+	Samsung Galaxy S8 and later | Settings > About phone > Software information > Build number
 
-LG G6 and later |Settings > About phone > Software info > Build number
+	LG G6 and later | Settings > About phone > Software info > Build number
 
-HTC U11 and later |Settings > About > Software information > More > Build number or Settings > System > About phone > Software information > More > Build number
+	HTC U11 and later | Settings > About > Software information > More > Build number or Settings > System > About phone > Software information > More > Build number
 
-OnePlus 5T and later |Settings > About phone > Build number
+	OnePlus 5T and later | Settings > About phone > Build number
 
 
 
